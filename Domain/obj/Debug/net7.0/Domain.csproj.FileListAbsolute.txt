@@ -1,0 +1,11 @@
+D:\personal project\First Project with mediatR\Employee Register Project\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\personal project\First Project with mediatR\Employee Register Project\Domain\bin\Debug\net7.0\Domain.dll
+D:\personal project\First Project with mediatR\Employee Register Project\Domain\bin\Debug\net7.0\Domain.pdb
+D:\personal project\First Project with mediatR\Employee Register Project\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal project\First Project with mediatR\Employee Register Project\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\personal project\First Project with mediatR\Employee Register Project\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\personal project\First Project with mediatR\Employee Register Project\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\personal project\First Project with mediatR\Employee Register Project\Domain\obj\Debug\net7.0\Domain.dll
+D:\personal project\First Project with mediatR\Employee Register Project\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\personal project\First Project with mediatR\Employee Register Project\Domain\obj\Debug\net7.0\Domain.pdb
+D:\personal project\First Project with mediatR\Employee Register Project\Domain\obj\Debug\net7.0\ref\Domain.dll

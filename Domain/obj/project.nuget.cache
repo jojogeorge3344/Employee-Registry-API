@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w7+PcmZvSlNlkFqqXWpIYzvBV4YT4kptTBalTQM6PfdIhy37eNNrr7OysLaxDsbYlse87iTjavfweVm+XvrI/A==",
+  "success": true,
+  "projectFilePath": "D:\\personal project\\First Project with mediatR\\Employee Register Project\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jojog\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\jojog\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\jojog\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
